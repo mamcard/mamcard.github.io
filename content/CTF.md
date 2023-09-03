@@ -1,9 +1,9 @@
 +++
-title = "Bear"
+title = "Write-ups"
 menu = "main"
 +++
 
-# Bear
+# Write-ups
 
 Website: https://bearblog.dev
 
