@@ -1,9 +1,9 @@
 +++
-title = "Hugo"
+title = "Setup"
 menu = "main"
 +++
 
-# Hugo
+# My Setup
 
 Website: https://gohugo.io
 
