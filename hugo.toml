@@ -1,4 +1,4 @@
 baseURL = 'http://mamcard.github.io'
 languageCode = 'en-us'
 title = 'Miguel Cardoso ( ˘▽˘)♨'
-theme = 'hugo-bearblog'
+theme = 'hugo-xmin'

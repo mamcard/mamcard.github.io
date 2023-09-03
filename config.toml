@@ -3,7 +3,7 @@
 baseURL = "https://mamcard.github.io"
 
 # The name of this wonderful theme ;-).
-theme = 'hugo-bearblog'
+theme = 'hugo-xmin'
 
 # Basic metadata configuration for your blog.
 title = "Miguel Cardoso ( ˘▽˘)♨"
